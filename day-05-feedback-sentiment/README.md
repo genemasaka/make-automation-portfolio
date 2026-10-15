@@ -23,6 +23,9 @@ Make.com, Google Forms, Google Sheets, OpenAI (GPT-5 nano), Gmail
 ## Scenario flow
 ![Scenario](01-scenario.png)
 
+## Form
+![Form](06-form.png)
+
 ## Result
 ![Tagged feedback](02-tagged-sheet.png)
 ![Dashboard](03-dashboard.png)
