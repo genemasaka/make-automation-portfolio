@@ -36,8 +36,8 @@ aggregators for the figures.
 
 ![COUNT aggregator output](04b-count.png)
 
-## Proof it runs unattended
-The History tab shows a scheduled run that I did not start by hand:
+## Proof it runs
+The History tab shows successful runs:
 
 ![Run history](05-history.png)
 
