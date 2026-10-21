@@ -20,7 +20,7 @@ By Eugene Masaka | [LinkedIn](https://www.linkedin.com/in/eugene-masaka/)
 | 5 | Customer feedback sentiment tagging | Feedback is collected and never read | Forms, Sheets, OpenAI, Gmail | [Folder](https://github.com/genemasaka/make-automation-portfolio/tree/master/day-05-feedback-sentiment) | [Post](https://lnkd.in/p/dJdY9yKm) |
 | 6 | Weekly sales report | Weekly summaries are built by hand or skipped | Sheets, Gmail | [Folder](https://github.com/genemasaka/make-automation-portfolio/tree/master/day-06-weekly-sales-report) | [Post](https://lnkd.in/p/deszFChR) |
 | 7 | Client quote generator | Slow quotes lose deals | Forms, Sheets, Docs, Drive, Gmail | [Folder](https://github.com/genemasaka/make-automation-portfolio/tree/master/day-07-quote-generator) | [Post](https://lnkd.in/p/dyWjX5t7) |
-| 9 | AI email triage | Reading and replying to routine email eats the morning | Gmail, OpenAI, Sheets | [Folder](day-09-ai-email-triage/) | [Post](PASTE-DAY-9-POST-URL) |
+| 9 | AI email triage | Reading and replying to routine email eats the morning | Gmail, OpenAI, Sheets | [Folder](https://github.com/genemasaka/make-automation-portfolio/tree/master/day-09-ai-email-triage) | [Post](https://lnkd.in/p/d4JScWhh) |
 
 More projects are added daily through October 2026.
 
