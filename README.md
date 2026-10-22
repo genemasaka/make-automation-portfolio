@@ -21,7 +21,7 @@ By Eugene Masaka | [LinkedIn](https://www.linkedin.com/in/eugene-masaka/)
 | 6 | Weekly sales report | Weekly summaries are built by hand or skipped | Sheets, Gmail | [Folder](https://github.com/genemasaka/make-automation-portfolio/tree/master/day-06-weekly-sales-report) | [Post](https://lnkd.in/p/deszFChR) |
 | 7 | Client quote generator | Slow quotes lose deals | Forms, Sheets, Docs, Drive, Gmail | [Folder](https://github.com/genemasaka/make-automation-portfolio/tree/master/day-07-quote-generator) | [Post](https://lnkd.in/p/dyWjX5t7) |
 | 9 | AI email triage | Reading and replying to routine email eats the morning | Gmail, OpenAI, Sheets | [Folder](https://github.com/genemasaka/make-automation-portfolio/tree/master/day-09-ai-email-triage) | [Post](https://lnkd.in/p/d4JScWhh) |
-
+| 10 | Meeting notes summary | Notes are never turned into summaries and action items | Drive, Docs, OpenAI, Gmail, Sheets | [Folder](day-10-meeting-notes-summary/) | [Post](PASTE-DAY-10-POST-URL) |
 More projects are added daily through October 2026.
 
 ## What these projects demonstrate
