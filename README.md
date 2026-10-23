@@ -22,6 +22,7 @@ By Eugene Masaka | [LinkedIn](https://www.linkedin.com/in/eugene-masaka/)
 | 7 | Client quote generator | Slow quotes lose deals | Forms, Sheets, Docs, Drive, Gmail | [Folder](https://github.com/genemasaka/make-automation-portfolio/tree/master/day-07-quote-generator) | [Post](https://lnkd.in/p/dyWjX5t7) |
 | 9 | AI email triage | Reading and replying to routine email eats the morning | Gmail, OpenAI, Sheets | [Folder](https://github.com/genemasaka/make-automation-portfolio/tree/master/day-09-ai-email-triage) | [Post](https://lnkd.in/p/d4JScWhh) |
 | 10 | Meeting notes summary | Notes are never turned into summaries and action items | Drive, Docs, OpenAI, Gmail, Sheets | [Folder](day-10-meeting-notes-summary/) | [Post](PASTE-DAY-10-POST-URL) |
+| 11 | AI resume screening | Reading dozens of CVs takes hours and good candidates get missed | Forms, Sheets, OpenAI, Gmail | [Folder](https://github.com/genemasaka/make-automation-portfolio/tree/master/day-11-resume-screening/day-11-resume-screening) | [Post](https://lnkd.in/p/dqUVVyQS) |
 More projects are added daily through October 2026.
 
 ## What these projects demonstrate
