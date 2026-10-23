@@ -48,19 +48,7 @@ between their scores in a run is randomness, not merit.
 | 5 | Strict tool definition | 100 | 75 | 25 | 0 | 75 |
 | 6 | Objective English check | 75 | 25 | 0 | 0 | 100 |
 
-Screenshots of each run:
 
-![Run 1](run-history/run1-score-0-100.png)
-![Run 2](run-history/run2-stricter-rule.png)
-![Run 3](run-history/run3-checklist.png)
-![Run 4](run-history/run4-verb-evidence.png)
-![Run 5](run-history/run5-strict-tool-definition.png)
-![Run 6](run-history/run6-objective-english.png)
-
-Two bugs along the way:
-
-![Every score capped at 35](run-history/bug-a-cap-all-35.png)
-![Score showing NaN](run-history/bug-b-nan-score.png)
 
 ## Lessons learned
 - Asking a model for a 0 to 100 score is unreliable. The same CV
