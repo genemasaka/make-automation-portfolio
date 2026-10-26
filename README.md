@@ -23,6 +23,7 @@ By Eugene Masaka | [LinkedIn](https://www.linkedin.com/in/eugene-masaka/)
 | 9 | AI email triage | Reading and replying to routine email eats the morning | Gmail, OpenAI, Sheets | [Folder](https://github.com/genemasaka/make-automation-portfolio/tree/master/day-09-ai-email-triage) | [Post](https://lnkd.in/p/d4JScWhh) |
 | 10 | Meeting notes summary | Notes are never turned into summaries and action items | Drive, Docs, OpenAI, Gmail, Sheets | [Folder](day-10-meeting-notes-summary/) | [Post](PASTE-DAY-10-POST-URL) |
 | 11 | AI resume screening | Reading dozens of CVs takes hours and good candidates get missed | Forms, Sheets, OpenAI, Gmail | [Folder](https://github.com/genemasaka/make-automation-portfolio/tree/master/day-11-resume-screening/day-11-resume-screening) | [Post](https://lnkd.in/p/dqUVVyQS) |
+| 12 | Content repurposer | One article is rewritten by hand for every channel | Forms, Sheets, OpenAI, Gmail | [Folder](https://github.com/genemasaka/make-automation-portfolio/tree/master/day-12-content-repurposer) | [Post](https://lnkd.in/p/d9gzGANK) |
 More projects are added daily through October 2026.
 
 ## What these projects demonstrate
