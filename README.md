@@ -24,6 +24,7 @@ By Eugene Masaka | [LinkedIn](https://www.linkedin.com/in/eugene-masaka/)
 | 10 | Meeting notes summary | Notes are never turned into summaries and action items | Drive, Docs, OpenAI, Gmail, Sheets | [Folder](day-10-meeting-notes-summary/) | [Post](PASTE-DAY-10-POST-URL) |
 | 11 | AI resume screening | Reading dozens of CVs takes hours and good candidates get missed | Forms, Sheets, OpenAI, Gmail | [Folder](https://github.com/genemasaka/make-automation-portfolio/tree/master/day-11-resume-screening/day-11-resume-screening) | [Post](https://lnkd.in/p/dqUVVyQS) |
 | 12 | Content repurposer | One article is rewritten by hand for every channel | Forms, Sheets, OpenAI, Gmail | [Folder](https://github.com/genemasaka/make-automation-portfolio/tree/master/day-12-content-repurposer) | [Post](https://lnkd.in/p/d9gzGANK) |
+| 13 | Overdue invoice reminders | Chasing late payments is awkward and inconsistent | Sheets, Gmail | [Folder](https://github.com/genemasaka/make-automation-portfolio/tree/master/day-13-invoice-reminders) | [Post](https://lnkd.in/p/dJtV4TGa) |
 More projects are added daily through October 2026.
 
 ## What these projects demonstrate
