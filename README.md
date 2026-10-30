@@ -9,6 +9,18 @@ scenario, the lessons learned, and an importable Make.com blueprint.
 
 By Eugene Masaka | [LinkedIn](https://www.linkedin.com/in/eugene-masaka/)
 
+## October 2026 at a glance
+- 15 projects built in Make.com, each with a README, a test, lessons learned, known limitations and an importable blueprint
+- 7 use AI. 8 use plain logic
+- Day 8 was a recap, so there is no folder for it
+
+### Five lessons that kept coming back
+1. Data formats cause more bugs than logic
+2. Every automation needs a stop condition
+3. Let the AI say "unclear" and let the workflow decide
+4. Keep a human in the loop
+5. Test the failure, not the happy path
+   
 ## Projects
 
 | Day | Project | What it solves | Tools | Details | Post |
