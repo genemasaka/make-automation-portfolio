@@ -27,7 +27,7 @@ By Eugene Masaka | [LinkedIn](https://www.linkedin.com/in/eugene-masaka/)
 | 13 | Overdue invoice reminders | Chasing late payments is awkward and inconsistent | Sheets, Gmail | [Folder](https://github.com/genemasaka/make-automation-portfolio/tree/master/day-13-invoice-reminders) | [Post](https://lnkd.in/p/dJtV4TGa) |
 | 14 | Client onboarding | Setting up a new client by hand is slow and inconsistent | Forms, Sheets, Drive, Gmail | [Folder](https://github.com/genemasaka/make-automation-portfolio/tree/master/day-14-client-onboarding) | [Post](https://lnkd.in/p/da9uVfcF) |
 | 15 | Daily news digest | Keeping up with relevant news means opening a dozen sites | RSS, OpenAI, Gmail | [Folder](https://github.com/genemasaka/make-automation-portfolio/tree/master/day-15-news-digest) | [Post](https://lnkd.in/p/dwH6GccM) |
-| 16 | Receipt expense tracker | Receipts pile up and month-end reports mean hours of retyping | Gmail, OpenAI, Sheets | [Folder](day-16-expense-tracker/) | [Post](PASTE-DAY-16-POST-URL) |
+| 16 | Receipt expense tracker | Receipts pile up and month-end reports mean hours of retyping | Gmail, OpenAI, Sheets | [Folder](https://github.com/genemasaka/make-automation-portfolio/tree/master/day-16-expense-tracker) | [Post](https://lnkd.in/p/d_Y5m2hZ) |
 More projects are added daily through October 2026.
 
 ## What these projects demonstrate
