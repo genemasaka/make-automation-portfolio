@@ -115,6 +115,7 @@ amount and category came from the receipt itself:
 - The "Receipts" label is applied by hand. A Gmail filter could do it
   automatically.
 - A refund is held for review and never subtracted from the totals.
+- A currency written as Ksh was not recognised as KES, so the receipt was held for review instead of being filed.
 
 ## What I'd add next
 - A duplicate check on vendor, date and amount
