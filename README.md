@@ -1,18 +1,23 @@
 # Make.com Automation Portfolio
 
-One real-world automation, built from scratch and documented, every
-day in October 2026.
+Real-world business automations built in Make.com, each one built from
+scratch and documented from the problem to the lessons learned.
 
-Each project solves a problem a small business actually has. Every
-folder contains the problem, the solution, screenshots of the working
-scenario, the lessons learned, and an importable Make.com blueprint.
+Every project has its own folder with the problem, the solution,
+screenshots of the working scenario, the tests that were run, the lessons
+learned, the known limitations and, where there is one, an importable
+Make.com blueprint. New projects are added as I build them.
 
 By Eugene Masaka | [LinkedIn](https://www.linkedin.com/in/eugene-masaka/)
 
-## October 2026 at a glance
-- 15 projects built in Make.com, each with a README, a test, lessons learned, known limitations and an importable blueprint
-- 7 use AI. 8 use plain logic
-- Day 8 was a recap, so there is no folder for it
+## Projects
+
+### Latest: RegWatch, a regulatory change monitor for banks (in progress)
+A compliance tool that watches regulators' public pages, drafts a summary of each new item and lets a person decide, with tasks, reminders, escalation and an audit trail. Built in public on Make's free plan, one day at a time.
+
+[Progress and daily write-ups](regwatch/)
+
+### October 2026: 15 standalone automations
 
 ### Five lessons that kept coming back
 1. Data formats cause more bugs than logic
@@ -40,7 +45,12 @@ By Eugene Masaka | [LinkedIn](https://www.linkedin.com/in/eugene-masaka/)
 | 14 | Client onboarding | Setting up a new client by hand is slow and inconsistent | Forms, Sheets, Drive, Gmail | [Folder](https://github.com/genemasaka/make-automation-portfolio/tree/master/day-14-client-onboarding) | [Post](https://lnkd.in/p/da9uVfcF) |
 | 15 | Daily news digest | Keeping up with relevant news means opening a dozen sites | RSS, OpenAI, Gmail | [Folder](https://github.com/genemasaka/make-automation-portfolio/tree/master/day-15-news-digest) | [Post](https://lnkd.in/p/dwH6GccM) |
 | 16 | Receipt expense tracker | Receipts pile up and month-end reports mean hours of retyping | Gmail, OpenAI, Sheets | [Folder](https://github.com/genemasaka/make-automation-portfolio/tree/master/day-16-expense-tracker) | [Post](https://lnkd.in/p/d_Y5m2hZ) |
-More projects are added daily through October 2026.
+## RegWatch (November 2026)
+A regulatory change monitor for a bank's compliance team, built in public on Make's free plan.
+[Progress and daily write-ups](regwatch/)
+
+
+The October series is complete. Newer projects are listed above.
 
 ## What these projects demonstrate
 
@@ -56,7 +66,11 @@ More projects are added daily through October 2026.
 - **Reliability:** duplicate prevention, fallback values for blank
   fields, filters that stop bad data, and honest notes on each
   project's known limitations
-
+  
+## How this portfolio is organised
+- Standalone automations are numbered by day and live in folders such as `day-05-feedback-sentiment`
+- Larger builds, such as RegWatch, have their own folder with a README and one folder per day
+  
 ## How to use a blueprint
 
 1. In Make, create a new scenario, click the three dots at the bottom
